@@ -1,7 +1,6 @@
 # Proyecto Backend - Coningenio
 
 Este proyecto corresponde a la Evaluación Unidad 1 del curso de **Desarrollo Backend**.  
-Consiste en la creación de una API RESTful en PHP puro para una empresa de consultoría y desarrollo de software llamada **Coningenio**.
 
 ---
 
